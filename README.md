@@ -1,6 +1,6 @@
 i-health is a responsive web app for analytics based healthcare services. The software includes major modules such as about us, service, technology, plans.
 
--project page:https://kamalrossi.github.io/medlyihealth/
+-project page:https://kamalrossi.github.io/ihealth/
 
 -Keywords: ReactJS, JSX, CSS, HTML5, MedTech
 
