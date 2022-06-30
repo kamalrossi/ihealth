@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ihealth/static/css/main.c71a1234.chunk.css",
+    "main.js": "/ihealth/static/js/main.2a2b1f10.chunk.js",
+    "main.js.map": "/ihealth/static/js/main.2a2b1f10.chunk.js.map",
+    "runtime-main.js": "/ihealth/static/js/runtime-main.ae3adabf.js",
+    "runtime-main.js.map": "/ihealth/static/js/runtime-main.ae3adabf.js.map",
+    "static/css/2.31ff0196.chunk.css": "/ihealth/static/css/2.31ff0196.chunk.css",
+    "static/js/2.5ea16a16.chunk.js": "/ihealth/static/js/2.5ea16a16.chunk.js",
+    "static/js/2.5ea16a16.chunk.js.map": "/ihealth/static/js/2.5ea16a16.chunk.js.map",
+    "static/js/3.e1a733c6.chunk.js": "/ihealth/static/js/3.e1a733c6.chunk.js",
+    "static/js/3.e1a733c6.chunk.js.map": "/ihealth/static/js/3.e1a733c6.chunk.js.map",
+    "index.html": "/ihealth/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/ihealth/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.c71a1234.chunk.css.map": "/ihealth/static/css/main.c71a1234.chunk.css.map",
+    "static/js/2.5ea16a16.chunk.js.LICENSE.txt": "/ihealth/static/js/2.5ea16a16.chunk.js.LICENSE.txt",
+    "static/media/0ihealth.3b1c0cf6.png": "/ihealth/static/media/0ihealth.3b1c0cf6.png",
+    "static/media/1ihealth.e55eeea4.png": "/ihealth/static/media/1ihealth.e55eeea4.png",
+    "static/media/2ihealth.ccd6a204.png": "/ihealth/static/media/2ihealth.ccd6a204.png",
+    "static/media/3ihealth.00be5818.png": "/ihealth/static/media/3ihealth.00be5818.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae3adabf.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.5ea16a16.chunk.js",
+    "static/css/main.c71a1234.chunk.css",
+    "static/js/main.2a2b1f10.chunk.js"
+  ]
+}
