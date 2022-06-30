@@ -1,8 +1,8 @@
--Medlytics is a responsive web app for analytics based Healthcare managemet.Major modules include homescreen, services,technology, testimonial, etc.
+i-health is a responsive web app for analytics based healthcare services. The software includes major modules such as about us, service, technology, plans.
 
--project page:https://kamalrossi.github.io/medlytics/
+-project page:https://kamalrossi.github.io/medlyihealth/
 
--Keywords: ReactJS, JSX, CSS, HTML5
+-Keywords: ReactJS, JSX, CSS, HTML5, MedTech
 
 -source code is available upon request (rossikamal@gmail.com)
 
